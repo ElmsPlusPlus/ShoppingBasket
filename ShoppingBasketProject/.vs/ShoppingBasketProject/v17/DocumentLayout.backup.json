@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\Downloads\\ShoppingBasket\\ShoppingBasketProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F30A80C2-AFC4-49E4-BACB-8900427800CE}|ShoppingBasketProject\\ShoppingBasketProject.csproj|c:\\users\\alex\\downloads\\shoppingbasket\\shoppingbasketproject\\shoppingbasketproject\\shoppingiteminputprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30A80C2-AFC4-49E4-BACB-8900427800CE}|ShoppingBasketProject\\ShoppingBasketProject.csproj|solutionrelative:shoppingbasketproject\\shoppingiteminputprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30A80C2-AFC4-49E4-BACB-8900427800CE}|ShoppingBasketProject\\ShoppingBasketProject.csproj|c:\\users\\alex\\downloads\\shoppingbasket\\shoppingbasketproject\\shoppingbasketproject\\pricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30A80C2-AFC4-49E4-BACB-8900427800CE}|ShoppingBasketProject\\ShoppingBasketProject.csproj|solutionrelative:shoppingbasketproject\\pricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30A80C2-AFC4-49E4-BACB-8900427800CE}|ShoppingBasketProject\\ShoppingBasketProject.csproj|c:\\users\\alex\\downloads\\shoppingbasket\\shoppingbasketproject\\shoppingbasketproject\\shoppingbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30A80C2-AFC4-49E4-BACB-8900427800CE}|ShoppingBasketProject\\ShoppingBasketProject.csproj|solutionrelative:shoppingbasketproject\\shoppingbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3011057-24DC-4314-83F8-40BFE19CB0B6}|ShopingBasketTestProject\\ShopingBasketTestProject.csproj|c:\\users\\alex\\downloads\\shoppingbasket\\shoppingbasketproject\\shopingbaskettestproject\\inputprocessingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3011057-24DC-4314-83F8-40BFE19CB0B6}|ShopingBasketTestProject\\ShopingBasketTestProject.csproj|solutionrelative:shopingbaskettestproject\\inputprocessingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3011057-24DC-4314-83F8-40BFE19CB0B6}|ShopingBasketTestProject\\ShopingBasketTestProject.csproj|c:\\users\\alex\\downloads\\shoppingbasket\\shoppingbasketproject\\shopingbaskettestproject\\shoppingbaskettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3011057-24DC-4314-83F8-40BFE19CB0B6}|ShopingBasketTestProject\\ShopingBasketTestProject.csproj|solutionrelative:shopingbaskettestproject\\shoppingbaskettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30A80C2-AFC4-49E4-BACB-8900427800CE}|ShoppingBasketProject\\ShoppingBasketProject.csproj|c:\\users\\alex\\downloads\\shoppingbasket\\shoppingbasketproject\\shoppingbasketproject\\buyonegetonefreecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30A80C2-AFC4-49E4-BACB-8900427800CE}|ShoppingBasketProject\\ShoppingBasketProject.csproj|solutionrelative:shoppingbasketproject\\buyonegetonefreecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingItemInputProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Downloads\\ShoppingBasket\\ShoppingBasketProject\\ShoppingBasketProject\\ShoppingItemInputProcessor.cs",
+              "RelativeDocumentMoniker": "ShoppingBasketProject\\ShoppingItemInputProcessor.cs",
+              "ToolTip": "C:\\Users\\Alex\\Downloads\\ShoppingBasket\\ShoppingBasketProject\\ShoppingBasketProject\\ShoppingItemInputProcessor.cs",
+              "RelativeToolTip": "ShoppingBasketProject\\ShoppingItemInputProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:45:18.156Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingBasket.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Downloads\\ShoppingBasket\\ShoppingBasketProject\\ShoppingBasketProject\\ShoppingBasket.cs",
+              "RelativeDocumentMoniker": "ShoppingBasketProject\\ShoppingBasket.cs",
+              "ToolTip": "C:\\Users\\Alex\\Downloads\\ShoppingBasket\\ShoppingBasketProject\\ShoppingBasketProject\\ShoppingBasket.cs",
+              "RelativeToolTip": "ShoppingBasketProject\\ShoppingBasket.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:12:49.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputProcessingTests.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Downloads\\ShoppingBasket\\ShoppingBasketProject\\ShopingBasketTestProject\\InputProcessingTests.cs",
+              "RelativeDocumentMoniker": "ShopingBasketTestProject\\InputProcessingTests.cs",
+              "ToolTip": "C:\\Users\\Alex\\Downloads\\ShoppingBasket\\ShoppingBasketProject\\ShopingBasketTestProject\\InputProcessingTests.cs",
+              "RelativeToolTip": "ShopingBasketTestProject\\InputProcessingTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:37:09.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingBasketTests.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Downloads\\ShoppingBasket\\ShoppingBasketProject\\ShopingBasketTestProject\\ShoppingBasketTests.cs",
+              "RelativeDocumentMoniker": "ShopingBasketTestProject\\ShoppingBasketTests.cs",
+              "ToolTip": "C:\\Users\\Alex\\Downloads\\ShoppingBasket\\ShoppingBasketProject\\ShopingBasketTestProject\\ShoppingBasketTests.cs",
+              "RelativeToolTip": "ShopingBasketTestProject\\ShoppingBasketTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:17:09.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PriceCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Downloads\\ShoppingBasket\\ShoppingBasketProject\\ShoppingBasketProject\\PriceCalculator.cs",
+              "RelativeDocumentMoniker": "ShoppingBasketProject\\PriceCalculator.cs",
+              "ToolTip": "C:\\Users\\Alex\\Downloads\\ShoppingBasket\\ShoppingBasketProject\\ShoppingBasketProject\\PriceCalculator.cs",
+              "RelativeToolTip": "ShoppingBasketProject\\PriceCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:05:43.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuyOneGetOneFreeCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Downloads\\ShoppingBasket\\ShoppingBasketProject\\ShoppingBasketProject\\BuyOneGetOneFreeCalculator.cs",
+              "RelativeDocumentMoniker": "ShoppingBasketProject\\BuyOneGetOneFreeCalculator.cs",
+              "ToolTip": "C:\\Users\\Alex\\Downloads\\ShoppingBasket\\ShoppingBasketProject\\ShoppingBasketProject\\BuyOneGetOneFreeCalculator.cs",
+              "RelativeToolTip": "ShoppingBasketProject\\BuyOneGetOneFreeCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:10:09.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

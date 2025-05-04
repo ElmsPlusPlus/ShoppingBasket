@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ZaxxKH0Pds=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Downloads\\ShoppingBasket\\ShoppingBasketProject\\ShoppingBasketProject\\ShoppingBasketProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\fluentassertions\\8.2.0\\fluentassertions.8.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
